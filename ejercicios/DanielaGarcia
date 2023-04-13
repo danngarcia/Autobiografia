@@ -1,0 +1,61 @@
+<!DOCTYPEhtml >
+<html  lang =" es " >
+
+
+<head>
+
+        <title>Mi biografia</title>
+    </head>
+    <body>
+<h1>Mi biografia Daniela Garcia</h1>
+<p>Mi nombre completo es Esly Daniela Ruiz Garcia y naci el 20 de Marzo del año 2000</p>
+<p> Un poquito mas sobre mi es que tengo una hija de 1 año con 4 meses, se llama esly sofia. Tambien estoy casada y mi esposo se llama alberto lopez garcia. Mi tiempo libre es para estar con mi familia</p>
+<h2>MAYOR LOGRO</h2>
+<p>Mi mayor logro fue poder empezar a estudiar la universidad en la rama de derecho.</p>
+<h3>Mis bebidas favoritas</h3>
+
+<ul>
+    <li> Agua de jamaica</li>
+    <li> Coca cola</li>
+    <li> cerveza vicky</li>
+    <li> Jugo de uva</li>
+    <li> Red Cola</li>
+    <li> Agua de frutas</li>
+</ul>
+
+<h4>Mis canciones favorita</h4>
+
+<ol>
+
+<li><a href="https://www.youtube.com/watch?v=B0XreQklF_w"> Beautiful- Dogg</a></li>
+<li><a href="https://www.youtube.com/watch?v=cZVJmId7qFk"> 21 Questions- 50 cent</a></li>
+<li><a href="https://www.youtube.com/watch?v=T2l-I-bTSs8"> Best Friend- 50 cent</a></li>
+<li><a href="https://www.youtube.com/watch?v=H-RBJNqdnoM"> Killing Me Softly With His Song- Fugees</a></li>
+<li><a href="https://www.youtube.com/watch?v=TJAfLE39ZZ8"> Back To Black- Amy Winehouse</a></li>
+</ol>
+
+<h5>Definiciones</h5>
+
+<p>FUNCION</p>
+  <li>un conjunto de instrucciones que realiza una tarea o calcula un valor</li>
+<p>LET</p>
+  <li>Te permite declarar variables limitando su alcanse</li>
+<p>CONST</p>
+  <li>Variables de solo lectura. cuando asignamos una variable, el nombre de esta va a estar asignada a un puntero en memoria</li>
+<p>ETIQUETA DE APERTURA</p>
+  <li>Se utiliza para indicar donde empieza un elemtento.</li>
+<p>CONTENIDO</p>
+  <li>El contenido es el resultado que ve la audiencia.</li>
+<p>ETIQUETA DE CIERRE</p>
+  <li>Es lo mismo que la etiqueta de apertura solo que aqui es con una barra inclinada delante del nombre del elemento</li>
+
+<h6>TIPOS DE SUSHI</h6>
+  <p>Maki</p>
+    <li>pescado, verdura enrollado</li>
+  <p>Uramaki</p>  
+    <li>Arroz aparece por fuera y sus ingredientes que se envuelven en el interior de un trozo de alga seca</li>
+  <p>Nigiri</p>  
+    <li>arroz de forma alargada, descansa una tira de pescado, marisco y tortilla</li>
+
+
+</body>
